@@ -7,6 +7,9 @@ using System.Windows.Media;
 
 namespace SolidFullScreen;
 
+/// <summary>
+/// By deepseek
+/// </summary>
 public partial class MainWindow : Window
 {
     [DllImport("user32.dll")]
@@ -24,7 +27,7 @@ public partial class MainWindow : Window
     private const int SM_CXVIRTUALSCREEN = 78;
     private const int SM_CYVIRTUALSCREEN = 79;
 
-    private static readonly Brush Fill = new SolidColorBrush(Color.FromRgb(30, 144, 255));
+    private static readonly Brush Fill = new SolidColorBrush(Color.FromRgb(0, 0, 0));
 
     private bool _isFullscreen;
     private Rect _savedBounds;
