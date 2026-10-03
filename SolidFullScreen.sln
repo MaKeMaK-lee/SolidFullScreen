@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidFullScreen", "SolidFullScreen\SolidFullScreen.csproj", "{60544A5B-9150-4C62-93E0-74D42A31C62D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60544A5B-9150-4C62-93E0-74D42A31C62D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60544A5B-9150-4C62-93E0-74D42A31C62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60544A5B-9150-4C62-93E0-74D42A31C62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60544A5B-9150-4C62-93E0-74D42A31C62D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECCB79B4-2F29-4457-958C-0D218ECEF0B8}
+	EndGlobalSection
+EndGlobal
